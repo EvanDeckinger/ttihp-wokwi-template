@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Number changes when switch is switched 
 
 ## How to test
 
-Explain how to use your project
+turn the AND GATE on 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A single digit 7 segment deisplay 
